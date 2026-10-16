@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_title">Tidak bisa terhubung ke server</string>
+    <string name="error_message">Pastikan server JasaKita menyala dan HP berada di jaringan yang sama. Kamu juga bisa menulis alamat server lain di bawah ini.</string>
+    <string name="error_hint">http://192.168.1.10:8000</string>
+    <string name="error_retry">Coba lagi</string>
+    <string name="error_invalid_url">Alamat server tidak valid</string>
+</resources>
